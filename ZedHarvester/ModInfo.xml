@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="ZedHarvester" />
+	<DisplayName value="ZedHarvester" />
+	<Description value="Allows harvesting zombies" />
+	<Author value="therealburnstein" />
+	<Version value="1.0" />
+	<Website value="https://www.retrosocks.co/" />
+	<SkipWithAntiCheat value="false" />
+</xml>
+
+
