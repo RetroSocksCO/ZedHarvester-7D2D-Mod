@@ -11,7 +11,7 @@ Adds harvestable resources to Zombies:
 * Old Cash
 
 # Zombie Updates
-* Corpses will remain for 60 seconds before despawning. (default: 10 seconds)
+* Corpses will remain for 60 seconds before despawning. (default: 30 seconds)
 * Corpse Hit Points set to 250. (default: 1000)
 
 # Credits
